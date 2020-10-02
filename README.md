@@ -26,4 +26,4 @@ enter the text
 
 
 step 5 
-enter the time first   hour and then minutes (remember always give 4 min gap from current time)
+enter the time first   hour and then minutes (remember always give 4 min gap maximum from current time)
